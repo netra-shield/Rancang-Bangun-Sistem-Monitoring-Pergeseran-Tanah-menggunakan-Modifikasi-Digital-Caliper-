@@ -2,8 +2,8 @@
 
 Proyek ini adalah sistem yang dirancang untuk memantau pergerakan tanah (displacement) dan kelembaban tanah secara *real-time*, serta memublikasikannya melalui protokol MQTT. Data yang diterima juga dicatat ke kartu SD secara lokal dan ditampilkan pada antarmuka pengguna grafis (GUI) melalui aplikasi desktop Python.
 
-![Diagram menunjukkan dua modul ESP (Main & Stake) berkomunikasi via MQTT ke broker pusat. Modul Main terhubung ke SD Card, OLED, RTC, Caliper, dan Sensor Tanah. PC menjalankan Aplikasi Python yang terhubung ke broker MQTT.](docs/system_diagram.png) 
-*(Catatan: Anda dapat menambahkan diagram alir sistem Anda ke folder `docs/` dan mengubah nama filenya)*
+![Diagram menunjukkan dua modul ESP (Main & Stake) berkomunikasi via MQTT ke broker pusat. Modul Main terhubung ke SD Card, OLED, RTC, Caliper, dan Sensor Tanah. PC menjalankan Aplikasi Python yang terhubung ke broker MQTT.] 
+
 
 ## 📋 Ikhtisar Komponen Sistem
 
