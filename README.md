@@ -1,4 +1,4 @@
-# Rancang-Bangun-Sistem-Monitoring-Pergeseran-Tanah-menggunakan-Modifikasi-Digital-Caliper-
+# RANCANG BANGUN SISTEM MONITORING PERGESERAN TANAH DENGAN MEMANFAATKAN DIGITAL CALIPER DAN SENSOR KELEMBABAN TANAH PADA SIMULASI MODEL LERENG BUATAN
 
 Proyek ini adalah sistem yang dirancang untuk memantau pergerakan tanah (displacement) dan kelembaban tanah secara *real-time*, serta memublikasikannya melalui protokol MQTT. Data yang diterima juga dicatat ke kartu SD secara lokal dan ditampilkan pada antarmuka pengguna grafis (GUI) melalui aplikasi desktop Python.
 
